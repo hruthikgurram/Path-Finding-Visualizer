@@ -14,7 +14,7 @@ Green box is the starting node and Red box is the end node.
 You can see the various algorithms below to visualize.
 Here  design of  grid is done using tables and set first node and second node colors using CSS properties.
 
-![grid](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/Home%20Page.png)
+![grid](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Home%20Page.png)
 
 
 ## Introduction
@@ -43,7 +43,7 @@ Below is how the DFS works
 - We can assign lower cost to encourage moving on roads while assigning high cost on highway to avoid them.
 - It is the algorithm of choice for finding the shortest path paths with multiple destinations.
 Below is the demo
-![dikstra](https://user-images.githubusercontent.com/39909903/91166789-c0552380-e687-11ea-9e87-e023e381eb06.PNG)
+![dikstra]([https://user-images.githubusercontent.com/39909903/91166789-c0552380-e687-11ea-9e87-e023e381eb06.PNG](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Dijikstra's%20Algo.png))
 
 ### A* (A-Star)
 - A* is a modification of Dijkstra's Algorithm that is optimized for a single destination.
@@ -51,4 +51,4 @@ Below is the demo
 - In a game, we could set costs to be attracted or discouraged in going near some objects : how useful it is for an AI.
 - It is more or less the golden ticket or industry standard algorithm for all applications finding directions between two locations.
 
-![a](https://user-images.githubusercontent.com/39909903/91166759-b59a8e80-e687-11ea-8ed7-faa0d453fe71.PNG)
+![a](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/A-star%20Algo.png)
