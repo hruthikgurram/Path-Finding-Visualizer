@@ -29,14 +29,14 @@ Let's check out some intuition behind this algorithms for better insights.
 * This may be the algorithm of choice to identify nearby places of interest in GPS.
 * BFS guarantees the shortest path.
 Below is the result for Breadth first search:
-![bfs](https://user-images.githubusercontent.com/39909903/91166761-b7645200-e687-11ea-90ab-ef04daeda21e.PNG)
+![bfs](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Breadth%20First%20Search%20Algo.png)
 
 ### Depth First Search
 - Traverses by exploring as far as possible down each path before backtracking.
 - As useful as the BFS: DFS can be used to generate a topological ordering, to generate mazes, to traverse trees, to build decision trees, to discover a solution path with hierarchical choices…
 - DFS does not guarantee the shortest path.
 Below is how the DFS works
-![dfs](https://user-images.githubusercontent.com/39909903/91169511-5723df00-e68c-11ea-87ed-896412c347b2.PNG)
+![dfs](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Depth%20First%20Search%20Algo.png)
 
 ### Dijkstra
 - Dijkstra's Algorithm lets us prioritize which paths to explore. Instead of exploring all possible paths equally, it favors lower cost paths.
