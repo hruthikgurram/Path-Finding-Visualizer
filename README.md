@@ -7,12 +7,6 @@
 ---------------
 ### Check out live [HERE](https://frolicking-gumdrop-d3c6cd.netlify.app/)
 
-##### DFS visualization demo:
-
-   ![dfs](https://user-images.githubusercontent.com/39909903/91169511-5723df00-e68c-11ea-87ed-896412c347b2.PNG)
-   
-
-
 ## Overview: 
  This is a fun project on visualizing path finding algorithms i.e BFS, DFS, Dikstra’s , A* algorithm.
 This app is entirely built in react and below is the how the interface looks like..
