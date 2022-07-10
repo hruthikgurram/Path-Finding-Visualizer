@@ -38,7 +38,7 @@ Below is how the DFS works
 - We can assign lower cost to encourage moving on roads while assigning high cost on highway to avoid them.
 - It is the algorithm of choice for finding the shortest path paths with multiple destinations.
 Below is the demo
-![dikstra]([https://user-images.githubusercontent.com/39909903/91166789-c0552380-e687-11ea-9e87-e023e381eb06.PNG](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Dijikstra's%20Algo.png))
+![dikstra](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Dijikstra's%20Algo.png)
 
 ### A* (A-Star)
 - A* is a modification of Dijkstra's Algorithm that is optimized for a single destination.
