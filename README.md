@@ -1,6 +1,5 @@
 # PathFinding-Visualizer: - A REACT APPLICATION
 
----------------
 ### Check out live [HERE](https://frolicking-gumdrop-d3c6cd.netlify.app/)
 
 ## Overview: 
