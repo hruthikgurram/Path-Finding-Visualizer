@@ -3,11 +3,7 @@
 ### Check out live [HERE](https://frolicking-gumdrop-d3c6cd.netlify.app/)
 
 ## Overview: 
- This is a fun project on visualizing path finding algorithms i.e BFS, DFS, Dikstra’s , A* algorithm.
-This app is entirely built in react and below is the how the interface looks like..
-Green box is the starting node and Red box is the end node.
-You can see the various algorithms below to visualize.
-Here  design of  grid is done using tables and set first node and second node colors using CSS properties.
+This is a fun project on visualizing path finding algorithms i.e BFS, DFS, Dijkstra’s , A* algorithm. This app is entirely built in react and below is how the interface looks like. Green box is the starting node and Red box is the end node. You can see the various algorithms below to visualize. Here design of grid is done using tables and set first node and second node colors using CSS properties.
 
 ![grid](https://github.com/hruthikgurram/Path-Finding-Visualizer/blob/main/images%20for%20react%20path%20visualizer/Home%20Page.png)
 
